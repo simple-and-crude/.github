@@ -1,6 +1,4 @@
-![logo](logo.png)
-
----
+# ![logo](/profile/logo.png)
 
 |简·陋| 系列程序™ 最初是指一系列由中国计算机编程非正式研究协会（CCPIRA）开发的在线实用工具。
 
