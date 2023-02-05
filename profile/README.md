@@ -26,6 +26,7 @@
         - [JS 导出工具](https://github.com/E0SelmY4V/jexpt)
       - [IE 浏览器兼容性测试工具](https://github.com/E0SelmY4V/ie-passer)
   - [模块对模块 IPC 框架](https://github.com/E0SelmY4V/procomm)
+    - [ES Module 入口工具库](https://github.com/E0SelmY4V/esm-entry)
   - [JSON Schema 转工厂函数](https://github.com/E0SelmY4V/schema2class)
 - 年会上闯关计分用的排行榜
 - 诗文默写生成器
