@@ -20,7 +20,7 @@
   - 指令图生成器
 - 叠铁片步骤计算器
 - Node.js 服务器框架
-  - [实用函数库](https://github.com/simple-and-crude/prac-fn)
+  - [实用函数库](https://github.com/simple-and-crude/nodeserver-prac-fn)
     - [幻想私社异步过程类](https://github.com/E0SelmY4V/scpo-proce)
       - [精准类型](https://github.com/E0SelmY4V/accurtype)
         - [JS 导出工具](https://github.com/E0SelmY4V/jexpt)
