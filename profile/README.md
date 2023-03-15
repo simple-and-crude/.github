@@ -22,6 +22,7 @@
 - Node.js 服务器框架
   - [实用函数库](https://github.com/simple-and-crude/nodeserver-prac-fn)
     - [幻想私社异步过程类](https://github.com/E0SelmY4V/scpo-proce)
+      - [异步蛇](https://github.com/E0SelmY4V/promise-snake)
       - [精准类型](https://github.com/E0SelmY4V/accurtype)
         - [JS 导出工具](https://github.com/E0SelmY4V/jexpt)
       - [IE 浏览器兼容性测试工具](https://github.com/E0SelmY4V/ie-passer)
@@ -32,7 +33,7 @@
 - 诗文默写生成器
 - 『皇家娱乐』练习本
   - [记忆练习](https://github.com/simple-and-crude/prac-memory)
-- 多窗口磁吸 HTA 框架
+- [多窗口磁吸 HTA 框架](https://github.com/simple-and-crude/multi-window)
 - HTA 本地文档查看器框架
 - [并列计算器](https://github.com/simple-and-crude/setcalc)
 - 柱形图唱票工具
@@ -47,4 +48,5 @@
   - [高级平滑渐变色](https://github.com/E0SelmY4V/changerf)
     - [导出测试者](https://github.com/E0SelmY4V/export-tester)
       - [函数变代码](https://github.com/E0SelmY4V/func2code)
+      - [『你也可』并不实用工具库](https://github.com/E0SelmY4V/you-can-too)
     - [死亡构建](https://github.com/E0SelmY4V/lethal-build)
