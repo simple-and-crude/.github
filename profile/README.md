@@ -10,7 +10,9 @@
 
 ## 项目一览
 
-|简·陋| 系列程序™ 共有以下项目（部分已经独立出去）：
+|简·陋| 系列程序™ 共有以下项目：
+
+> 画横杠的是停止开发或维护的项目
 
 - 节拍器
 - [钓 ip 工具](https://github.com/simple-and-crude/chaip)
@@ -19,9 +21,9 @@
 - 我的世界实用工具
   - 指令图生成器
 - 叠铁片步骤计算器
-- Node.js 服务器框架
-  - [实用函数库](https://github.com/simple-and-crude/nodeserver-prac-fn)
-    - [幻想私社异步过程类](https://github.com/E0SelmY4V/scpo-proce)
+- ~Node.js 服务器框架~
+  - ~[实用函数库](https://github.com/simple-and-crude/nodeserver-prac-fn)~
+    - ~[幻想私社异步过程类](https://github.com/E0SelmY4V/scpo-proce)~
       - [异步蛇](https://github.com/E0SelmY4V/promise-snake)
       - [精准类型](https://github.com/E0SelmY4V/accurtype)
         - [JS 导出工具](https://github.com/E0SelmY4V/jexpt)
@@ -48,5 +50,5 @@
   - [高级平滑渐变色](https://github.com/E0SelmY4V/changerf)
     - [导出测试者](https://github.com/E0SelmY4V/export-tester)
       - [函数变代码](https://github.com/E0SelmY4V/func2code)
-      - [『你也可』并不实用工具库](https://github.com/E0SelmY4V/you-can-too)
+      - ~[『你也可』并不实用工具库](https://github.com/E0SelmY4V/you-can-too)~
     - [死亡构建](https://github.com/E0SelmY4V/lethal-build)
