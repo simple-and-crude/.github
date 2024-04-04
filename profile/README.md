@@ -25,8 +25,9 @@
   - ~[实用函数库](https://github.com/simple-and-crude/nodeserver-prac-fn)~
     - ~[幻想私社异步过程类](https://github.com/E0SelmY4V/scpo-proce)~
       - [异步蛇](https://github.com/E0SelmY4V/promise-snake)
-      - [精准类型](https://github.com/E0SelmY4V/accurtype)
+      - [精确类型](https://github.com/accurtype/accurtype)
         - [JS 导出工具](https://github.com/E0SelmY4V/jexpt)
+        - [配套开发流程管理工具](https://github.com/accurtype/releaser)
       - [IE 浏览器兼容性测试工具](https://github.com/E0SelmY4V/ie-passer)
   - [模块对模块 IPC 框架](https://github.com/E0SelmY4V/procomm)
     - [ES Module 入口工具库](https://github.com/E0SelmY4V/esm-entry)
