@@ -14,7 +14,7 @@
 
 > 画横杠的是停止开发或维护的项目
 
-- 节拍器
+- [节拍器](https://github.com/simple-and-crude/beat)
 - [钓 ip 工具](https://github.com/simple-and-crude/chaip)
 - 在线 JS 代码运行调试控制台
 - [豪华方程生成器](https://github.com/simple-and-crude/equation)
