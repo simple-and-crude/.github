@@ -17,7 +17,7 @@
 - 节拍器
 - [钓 ip 工具](https://github.com/simple-and-crude/chaip)
 - 在线 JS 代码运行调试控制台
-- 豪华方程生成器
+- [豪华方程生成器](https://github.com/simple-and-crude/equation)
 - 我的世界实用工具
   - 指令图生成器
 - 叠铁片步骤计算器
